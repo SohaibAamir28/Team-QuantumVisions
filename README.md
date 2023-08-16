@@ -1,4 +1,5 @@
 ## Team-QuantumVisions
+
  Blending AI and math to create captivating art that bridges science and creativity.
 
 ## Revolutionary Technical Features
@@ -219,7 +220,10 @@ example = {"jpg": x,  # this is a tensor -1...1 chw
 ```
 
 where we expect images in -1...1, channel-first format.
-#   T e a m - Q u a n t u m V i s i o n s  
- #   T e a m - Q u a n t u m V i s i o n s  
- #   T e a m - Q u a n t u m V i s i o n s  
+#   T e a m - Q u a n t u m V i s i o n s 
+ 
+ #   T e a m - Q u a n t u m V i s i o n s 
+ 
+ #   T e a m - Q u a n t u m V i s i o n s 
+ 
  
